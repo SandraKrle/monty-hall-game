@@ -7,7 +7,7 @@ State management is managed by local components state and props passing, due to 
 Unit tests are written with Vitest and React testing library.
 Accessibility is ensured by use of ARIA markup and enabling keyboard events (Enter and Space) to open the doors.
 
-
+Link to the deployed app: [https://monty-hall-game-sigma.vercel.app/](https://monty-hall-game-sigma.vercel.app/)
 ## Getting Started
 
 To run the development server run the following commands from the project folder:
